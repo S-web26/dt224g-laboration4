@@ -1,4 +1,5 @@
 /* Lösning till Uppgift 1. Av Sandra Safari, 2026 */
+// Skapar variabler med personinformation och skriver ut dem.
 "use strict";
 
 const firstName = "Sandra";
